@@ -1,6 +1,6 @@
-# Resizing Bug Demo
+# React Demo Unmounting/Remounting Components
 
-This project is designed for [Analysis 3567065](https://tfs.rockfin.com/QL/IT/_workitems/edit/3567065): **Rewards Dashboard - Identify value gained by reducing duplicate endpoint calls from page resizing.**
+This project is designed for analyzing a bug for multiple API calls while resizing the window to a certain breakpoint.
 
 ## How to run it
 1. `npm install`
